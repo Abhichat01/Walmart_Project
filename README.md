@@ -2,7 +2,7 @@
 A retail store that has multiple outlets across the country are facing issues in managing the
 inventory - to match the demand with respect to supply.<br>
 **Problem Statement 1:**<br>
-1. You are provided with the weekly sales data for their various outlets. Use statistical
+You are provided with the weekly sales data for their various outlets. Use statistical
 analysis, EDA, outlier analysis, and handle the missing values to come up with various
 insights that can give them a clear perspective on the following:<br>
 - If the weekly sales are affected by the unemployment rate, if yes - which stores
