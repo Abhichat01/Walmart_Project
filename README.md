@@ -5,7 +5,7 @@ inventory - to match the demand with respect to supply.<br>
 1. You are provided with the weekly sales data for their various outlets. Use statistical
 analysis, EDA, outlier analysis, and handle the missing values to come up with various
 insights that can give them a clear perspective on the following:<br>
-*If the weekly sales are affected by the unemployment rate, if yes - which stores
+- If the weekly sales are affected by the unemployment rate, if yes - which stores
 are suffering the most?
 b. If the weekly sales show a seasonal trend, when and what could be the reason?
 c. Does temperature affect the weekly sales in any manner?
