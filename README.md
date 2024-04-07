@@ -13,6 +13,6 @@ are suffering the most?
 - Top performing stores according to the historical data.
 - The worst performing store, and how significant is the difference between the
 highest and lowest performing stores.<br>
-**Problem Statement 2:**<br>
+<br>**Problem Statement 2:**<br>
 - Use predictive modeling techniques to forecast the sales for each store for the next 12
 weeks.
